@@ -93,7 +93,7 @@ Impact: Empowered Adventure Networks to improve demand forecasting, streamline i
 - Drill-through and bookmarks for interactivity
 - Use of custom visuals (e.g., calendar visual)
 - Layout and color consistency for accessibility
-
+  
 ### Power BI Service & Sharing
 - Publishing to Power BI Service
 - Dashboard creation and sharing via Power BI Apps
