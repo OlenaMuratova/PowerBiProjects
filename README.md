@@ -8,10 +8,10 @@ This portfolio demonstrates my ability to:
 - Communicate complex patterns and KPIs using intuitive visuals
 - Deliver solutions that support strategic business decisions
 - Develop intuitive and impactful data visualizations
-- Translate complex analytical findings into clear, visually engaging dashboards and charts that highlight KPIs, trends, anomalies, and business-critical patterns, making data easily accessible to both technical and non-technical stakeholders.
-- Collaborate cross-functionally to align data solutions with business goals. Work closely with business leaders, analysts, and domain experts to gather requirements, define success metrics, and ensure that data products effectively address real-world challenges and opportunities.
--Enable strategic, data-driven decision-making across the organization
-- Deliver analytical solutions that not only monitor performance but also provide predictive insights and support forecasting, planning, and long-term strategic initiatives.
+- Translate complex analytical findings into clear, visually engaging dashboards and charts that highlight KPIs, trends, anomalies, and business-critical patterns, making data easily accessible to both technical and non-technical stakeholders
+- Collaborate cross-functionally to align data solutions with business goals. Work closely with business leaders, analysts, and domain experts to gather requirements, define success metrics, and ensure that data products effectively address real-world challenges and opportunities
+- Enable strategic, data-driven decision-making across the organization
+- Deliver analytical solutions that not only monitor performance but also provide predictive insights and support forecasting, planning, and long-term strategic initiatives
 
 
 
@@ -46,9 +46,8 @@ Dashboard link: https://app.powerbi.com/groups/me/reports/82f7862a-f347-422d-952
 - **Objective:** Provide visibility into sales performance by rug type, style, origin, and geography.
 - **Key Features:**
   - Sales by rug material, size, and region
-  - Top-selling products and sales reps
-  - Margin and turnover analysis
-  - Filtering by weave, design, and store location
+  - Top-selling products 
+  - Filtering by weave, design,  location
 
 
 ### 4. 🏦 Bank Customer and Loan Performance Dashboard
@@ -62,15 +61,12 @@ Dashboard link: https://app.powerbi.com/groups/me/reports/d184fdb6-5e8e-44b9-939
 
 ### 5. 📊 Sales Analytics Dashboard
 Dashboard link:https://app.powerbi.com/groups/me/reports/76248d61-5d48-44d0-bf0e-692fc5a9857c/da9c103c6050be9c410b?experience=power-bi
-- **Domain: Retail / Adventure Gear Distribution
+- **Domain: Retail 
 - **Objective: Designed for Portfolio
 - **Key Features:** 
   - This dashboard provides a unified view of product portfolio performance, regional sales trends, and inventory health to support strategic decision-making.
   - Security & Deployment:
   - Published to Power BI Service
-
-
-Impact: Empowered Adventure Networks to improve demand forecasting, streamline inventory turnover, and enhance portfolio strategy by identifying high-growth products and underperforming regions.
 
 ## 🛠️ Skills Demonstrated
 
@@ -85,7 +81,7 @@ Impact: Empowered Adventure Networks to improve demand forecasting, streamline i
 
 ### DAX Measures & Calculated Columns
 - Time-based calculations: `SAMEPERIODLASTYEAR`, `PREVIOUSMONTH`
-- Custom KPIs: claim counts, revenue trends, bed availability, readmission rates
+- Custom KPIs: claim counts, revenue trends, readmission rates
 - Dynamic filters and slicers integration
 
 ### Visual Storytelling & UX
