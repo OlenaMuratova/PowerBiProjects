@@ -105,4 +105,3 @@ If you’d like to connect or discuss potential opportunities, feel free to reac
 - 💼 LinkedIn: https://www.linkedin.com/in/olena-muratova-b67068191/
   
 ⭐ **If you found this repository helpful or inspiring, please consider giving it a star!**
-
