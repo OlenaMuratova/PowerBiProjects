@@ -16,7 +16,7 @@ This portfolio demonstrates my ability to:
 ## 🔍 Projects Overview
 
 ### 1. 🛍️ Evercode - Online Women’s Clothing Sales Report
-Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiMzNiOTVhOGYtMGI3OS00N2U4LTgyYjctY2FlNGFlZWIzOTRiIiwidCI6IjdhM2JhYzM5LThmZGUtNDk5NS1hNWIwLWFiNWRjMDlkZTIxNyIsImMiOjJ9
+Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiZTYzN2VkZjQtNGE1Zi00NWJkLWFkY2YtN2U1ZTI1N2FjOGI3IiwidCI6IjdhM2JhYzM5LThmZGUtNDk5NS1hNWIwLWFiNWRjMDlkZTIxNyIsImMiOjJ9
 - **Domain:** E-commerce / Fashion Retail
 - **Objective:** Analyze and visualize sales performance to guide marketing and merchandising strategies.
 - **Key Features:**
