@@ -16,7 +16,7 @@ This portfolio demonstrates my ability to:
 ## 🔍 Projects Overview
 
 ### 1. 🛍️ Evercode - Online Women’s Clothing Sales Report
-Dashboard link: https://app.powerbi.com/groups/me/reports/3f4fc765-e28f-454b-8cc3-5853049df913/019ffd93641238558b28?experience=power-bi
+Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiMzNiOTVhOGYtMGI3OS00N2U4LTgyYjctY2FlNGFlZWIzOTRiIiwidCI6IjdhM2JhYzM5LThmZGUtNDk5NS1hNWIwLWFiNWRjMDlkZTIxNyIsImMiOjJ9
 - **Domain:** E-commerce / Fashion Retail
 - **Objective:** Analyze and visualize sales performance to guide marketing and merchandising strategies.
 - **Key Features:**
@@ -27,7 +27,7 @@ Dashboard link: https://app.powerbi.com/groups/me/reports/3f4fc765-e28f-454b-8cc
 
 
 ### 2. 📦 iTrade Network Dashboard
-Dashboard link: https://app.powerbi.com/groups/me/reports/818641aa-87d2-4bab-88a3-795fa84e4913/c1901d3441dd732912b9?experience=power-bi&clientSideAuth=0
+Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiMDg0NzhlZDUtYjEyMS00YjI3LWJiNGQtMWY1MDJkYWYxODAxIiwidCI6IjdhM2JhYzM5LThmZGUtNDk5NS1hNWIwLWFiNWRjMDlkZTIxNyIsImMiOjJ9
 - **Domain:** B2B Supply Chain & Logistics
 - **Objective:** Evaluate transaction volume and delivery efficiency across the network. Provide a comprehensive view of transaction activity, supplier performance, and customer behavior to support strategic procurement and operational decisions.
 - **Key Features:**
@@ -39,7 +39,7 @@ Product Performance: Evaluation of product-level trends and contributions
 Demographic Analysis: Insights into customer profiles and purchasing patterns
 
 ### 3. 🧺 Tariq Oriental Rugs Sales Insights
-Dashboard link: https://app.powerbi.com/groups/me/reports/82f7862a-f347-422d-952b-cea11f7adb6b/59260a9f804db0589185?experience=power-bi
+Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiMDQ2ZTQ1MTctZDIzNi00MDkxLWE2NTktM2ZlOGNhNDUzYmMzIiwidCI6IjdhM2JhYzM5LThmZGUtNDk5NS1hNWIwLWFiNWRjMDlkZTIxNyIsImMiOjJ9
 - **Domain:** Retail / Specialty Rugs & Home Decor
 - **Objective:** Provide visibility into sales performance by rug type, style, origin, and geography.
 - **Key Features:**
@@ -49,7 +49,7 @@ Dashboard link: https://app.powerbi.com/groups/me/reports/82f7862a-f347-422d-952
 
 
 ### 4. 🏦 Bank Customer and Loan Performance Dashboard
-Dashboard link: https://app.powerbi.com/groups/me/reports/d184fdb6-5e8e-44b9-939b-e7620d49339a/7dce3f6252c164073a39?experience=power-bi
+Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiYmI3MDc0MWUtNWQ1Zi00Y2E3LTk5ZjMtOWVkNzRkNGU5MmFjIiwidCI6IjdhM2JhYzM5LThmZGUtNDk5NS1hNWIwLWFiNWRjMDlkZTIxNyIsImMiOjJ9
 - **Domain:** Banking / Financial Services
 - **Objective:** Track customer demographics, loan trends.
 - **Key Features:**
@@ -58,7 +58,7 @@ Dashboard link: https://app.powerbi.com/groups/me/reports/d184fdb6-5e8e-44b9-939
   - Product trends by month
 
 ### 5. 📊 Sales Analytics Dashboard
-Dashboard link:https://app.powerbi.com/groups/me/reports/76248d61-5d48-44d0-bf0e-692fc5a9857c/da9c103c6050be9c410b?experience=power-bi
+Dashboard link:https://app.powerbi.com/view?r=eyJrIjoiMTY4MjRhMmYtNGJlNy00MTE5LWI4MDAtNWRkNGU3OWVmNmE2IiwidCI6IjdhM2JhYzM5LThmZGUtNDk5NS1hNWIwLWFiNWRjMDlkZTIxNyIsImMiOjJ9
 - **Domain: Retail 
 - **Objective: Designed for Portfolio
 - **Key Features:** 
