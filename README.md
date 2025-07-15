@@ -1,5 +1,3 @@
-# Power BI Portfolio by Olena Muratova
-
 Welcome to my Power BI Portfolio! This repository highlights a collection of end-to-end data analysis and reporting projects developed using Power BI. These projects span a variety of industries including e-commerce, supply chain, retail, banking. Each project focuses on solving real-world business problems through data-driven storytelling, dynamic dashboards, and insightful visualizations.
 
 This portfolio demonstrates my ability to:
