@@ -49,7 +49,7 @@ Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiYjk1MGY3YTMtMGRjZC00MzU0L
 
 
 ### 4. 🏦 Bank Customer and Loan Performance Dashboard
-Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiYmI3MDc0MWUtNWQ1Zi00Y2E3LTk5ZjMtOWVkNzRkNGU5MmFjIiwidCI6IjdhM2JhYzM5LThmZGUtNDk5NS1hNWIwLWFiNWRjMDlkZTIxNyIsImMiOjJ9
+Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiMzllMTI3YWEtYTFhOS00NTdmLTg0YWEtMTVkYTliYzVkN2Q5IiwidCI6IjdhM2JhYzM5LThmZGUtNDk5NS1hNWIwLWFiNWRjMDlkZTIxNyIsImMiOjJ9
 - **Domain:** Banking / Financial Services
 - **Objective:** Track customer demographics, loan trends.
 - **Key Features:**
