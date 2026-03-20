@@ -39,7 +39,7 @@ Product Performance: Evaluation of product-level trends and contributions
 Demographic Analysis: Insights into customer profiles and purchasing patterns
 
 ### 3. 🧺 Tariq Oriental Rugs Sales Insights
-Dashboard link: [https://app.powerbi.com/view?r=eyJrIjoiYjk1MGY3YTMtMGRjZC00MzU0LWIzNWQtOTA0NmQ4YTI3ODNjIiwidCI6IjdhM2JhYzM5LThmZGUtNDk5NS1hNWIwLWFiNWRjMDlkZTIxNyIsImMiOjJ9](https://app.powerbi.com/view?r=eyJrIjoiYzBhMmQ1MWQtZjQwNi00MjMwLWJmY2MtNjE4MWZiNWRjYzI3IiwidCI6ImIxODdlZDFkLTNhZDctNDkxOC1hZTk3LTczYjVlYmQ3YzdlYyIsImMiOjF9)
+Dashboard link:[ [https://app.powerbi.com/view?r=eyJrIjoiYjk1MGY3YTMtMGRjZC00MzU0LWIzNWQtOTA0NmQ4YTI3ODNjIiwidCI6IjdhM2JhYzM5LThmZGUtNDk5NS1hNWIwLWFiNWRjMDlkZTIxNyIsImMiOjJ9](https://app.powerbi.com/view?r=eyJrIjoiYzBhMmQ1MWQtZjQwNi00MjMwLWJmY2MtNjE4MWZiNWRjYzI3IiwidCI6ImIxODdlZDFkLTNhZDctNDkxOC1hZTk3LTczYjVlYmQ3YzdlYyIsImMiOjF9)](https://app.powerbi.com/view?r=eyJrIjoiOTkwZWM0ZTUtZjIyYy00ZjI5LTliMjYtZDk0NThkNGE1MzhlIiwidCI6ImIxODdlZDFkLTNhZDctNDkxOC1hZTk3LTczYjVlYmQ3YzdlYyIsImMiOjF9)
 - **Domain:** Retail / Specialty Rugs & Home Decor
 - **Objective:** Provide visibility into sales performance by rug type, style, origin, and geography.
 - **Key Features:**
