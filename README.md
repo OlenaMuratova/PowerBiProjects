@@ -58,7 +58,7 @@ Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiMzllMTI3YWEtYTFhOS00NTdmL
   - Product trends by month
 
 ### 5. 📊 Sales Analytics Dashboard
-Dashboard link:https://app.powerbi.com/view?r=eyJrIjoiMDU3OTM5ODAtY2MwMy00Mzc4LWI4MDItNjQ3MWQ3YmFkNjM5IiwidCI6ImIxODdlZDFkLTNhZDctNDkxOC1hZTk3LTczYjVlYmQ3YzdlYyIsImMiOjF9
+Dashboard https://app.powerbi.com/view?r=eyJrIjoiMzlmODAwZmYtYmFhZC00ZTc5LWIyYzYtNjg5OWNhODU4NGYwIiwidCI6ImIxODdlZDFkLTNhZDctNDkxOC1hZTk3LTczYjVlYmQ3YzdlYyIsImMiOjF9
 - **Domain: Retail 
 - **Objective: Designed for Portfolio
 - **Key Features:** 
