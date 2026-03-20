@@ -27,7 +27,7 @@ Dashboard link: <iframe title="evercode2" width="600" height="373.5" src="https:
 
 
 ### 2. 📦 iTrade Network Dashboard
-Dashboard link:https://app.powerbi.com/view?r=eyJrIjoiMzdmNjA2ZGQtYzVlNy00MDVhLWJmZDctNmY5Y2M3MTExMjA4IiwidCI6ImIxODdlZDFkLTNhZDctNDkxOC1hZTk3LTczYjVlYmQ3YzdlYyIsImMiOjF9
+Dashboard link:https://app.powerbi.com/view?r=eyJrIjoiNzFiNDY2ZTQtMmE3ZC00ZWNjLWFhOTQtMzk0ZDFmZWNmZTRmIiwidCI6ImIxODdlZDFkLTNhZDctNDkxOC1hZTk3LTczYjVlYmQ3YzdlYyIsImMiOjF9
 - **Domain:** B2B Supply Chain & Logistics
 - **Objective:** Evaluate transaction volume and delivery efficiency across the network. Provide a comprehensive view of transaction activity, supplier performance, and customer behavior to support strategic procurement and operational decisions.
 - **Key Features:**
