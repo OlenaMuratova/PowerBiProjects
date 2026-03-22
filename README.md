@@ -65,7 +65,8 @@ Dashboard https://app.powerbi.com/view?r=eyJrIjoiYzBhMmQ1MWQtZjQwNi00MjMwLWJmY2M
   - This dashboard provides a unified view of product portfolio performance, regional sales trends, and inventory health to support strategic decision-making.
   - Security & Deployment:
   - Published to Power BI Service
-
+### 6. Data verification with phyton presentation
+link: https://docs.google.com/presentation/d/e/2PACX-1vQvtEGiwcCChL18Yi18MliHLW04zZM4ENWtf2ylYOc2pruOOjySRBEhEfuRnvRd7gThVMr7z41xMPWM/pub?start=false&loop=false&delayms=3000
 ## 🛠️ Skills Demonstrated
 
 ### Data Preparation & Transformation
