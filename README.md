@@ -66,7 +66,7 @@ Dashboard https://app.powerbi.com/view?r=eyJrIjoiYzBhMmQ1MWQtZjQwNi00MjMwLWJmY2M
   - Security & Deployment:
   - Published to Power BI Service
 ### 6. Data validation with phyton presentation
-link: [https://docs.google.com/presentation/d/e/2PACX-1vQvtEGiwcCChL18Yi18MliHLW04zZM4ENWtf2ylYOc2pruOOjySRBEhEfuRnvRd7gThVMr7z41xMPWM/pub?start=false&loop=false&delayms=3000](https://docs.google.com/presentation/d/e/2PACX-1vQvtEGiwcCChL18Yi18MliHLW04zZM4ENWtf2ylYOc2pruOOjySRBEhEfuRnvRd7gThVMr7z41xMPWM/pub?start=false&loop=false&delayms=3000&slide=id.g3c7cba9f711_0_893)
+link: https://docs.google.com/presentation/d/e/2PACX-1vQvtEGiwcCChL18Yi18MliHLW04zZM4ENWtf2ylYOc2pruOOjySRBEhEfuRnvRd7gThVMr7z41xMPWM/pub?start=false&loop=false&delayms=3000
 ## 🛠️ Skills Demonstrated
 
 ### Data Preparation & Transformation
